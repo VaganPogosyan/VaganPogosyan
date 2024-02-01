@@ -1,7 +1,7 @@
 #### Hi there 👋
 
 ### I'm a React/React Native developer.
-### I use Typescript and Node.js or Next.js for full stack applicaitions
+#### I use Typescript and Node.js or Next.js for full stack applicaitions
 
 #### Other things I currently invest time to:
 - Cyber Security
