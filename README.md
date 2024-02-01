@@ -3,7 +3,7 @@
 
 #### Things I'm currently learning:
 - 🤖 Cyber Security
-- 🎮 Game development with Godot
+- 👾 Game development with Godot
 
 #### Other things I'm good at:
 - 🎸 Music production
