@@ -12,5 +12,5 @@
 
 #### How to reach me:
 - 📧 Email: vagan2502@gmail.com
-- 🦹🏻 Portfolio: [vaganpogosyan.com]
-- 🤵🏻‍♂️ LinkedIn: [linkedin.com/in/vagan-pogosyan/]
+- 🦹🏻 Portfolio: [vaganpogosyan.com](vaganpogosyan.com)
+- 🤵🏻‍♂️ LinkedIn: [linkedin.com/in/vagan-pogosyan/](linkedin.com/in/vagan-pogosyan/)
