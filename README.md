@@ -1,4 +1,4 @@
-##### Hi there 👋![Uploading PenTest+-svg.svg…]()
+##### Hi there 👋!
 
 #### I'm an aspiring cyber security engineer and penetration tester with experience in software development.
 <img src="https://images.credly.com/size/680x680/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob" width="120px" /><img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="120px" /><img src="https://tryhackme-badges.s3.amazonaws.com/vaganzza.png"/>
